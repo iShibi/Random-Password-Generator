@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-Password-Generator/static/css/main.a0310b5e.chunk.css",
+    "main.js": "/Random-Password-Generator/static/js/main.e0727bab.chunk.js",
+    "main.js.map": "/Random-Password-Generator/static/js/main.e0727bab.chunk.js.map",
+    "runtime-main.js": "/Random-Password-Generator/static/js/runtime-main.7654133e.js",
+    "runtime-main.js.map": "/Random-Password-Generator/static/js/runtime-main.7654133e.js.map",
+    "static/js/2.cbc755fa.chunk.js": "/Random-Password-Generator/static/js/2.cbc755fa.chunk.js",
+    "static/js/2.cbc755fa.chunk.js.map": "/Random-Password-Generator/static/js/2.cbc755fa.chunk.js.map",
+    "static/js/3.88abdfa3.chunk.js": "/Random-Password-Generator/static/js/3.88abdfa3.chunk.js",
+    "static/js/3.88abdfa3.chunk.js.map": "/Random-Password-Generator/static/js/3.88abdfa3.chunk.js.map",
+    "index.html": "/Random-Password-Generator/index.html",
+    "static/css/main.a0310b5e.chunk.css.map": "/Random-Password-Generator/static/css/main.a0310b5e.chunk.css.map",
+    "static/js/2.cbc755fa.chunk.js.LICENSE.txt": "/Random-Password-Generator/static/js/2.cbc755fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7654133e.js",
+    "static/js/2.cbc755fa.chunk.js",
+    "static/css/main.a0310b5e.chunk.css",
+    "static/js/main.e0727bab.chunk.js"
+  ]
+}
